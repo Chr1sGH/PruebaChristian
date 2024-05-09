@@ -1,0 +1,63 @@
+﻿@model IEnumerable<WebPruebaTecnica.Models.empleados>
+
+@{
+    ViewBag.Title = "Usuarios";
+}
+
+<h2>Usuarios lista completa</h2>
+
+@Html.ActionLink("Exportar CSV", "ExportarCSV", null, new { @class = "btn btn-success" })
+<table class="table">
+    <tr>
+        <th>
+            Usuario
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Apellido Paterno
+        </th>
+        <th>
+            Apellido Materno
+        </th>
+        <th>
+            Salario
+        </th>
+        <th>
+            Fecha de Ingreso
+        </th>
+        <th>
+            Acciones
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Login)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Paterno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Materno)
+            </td>
+            <td>
+                $@item.Sueldo
+            </td>
+            <td>
+                @item.FechaIngreso.Value.ToString("dd/MM/yyyy")
+            </td>
+            <td>
+                @Html.ActionLink("Editar salario", "EditarSalarioU", new { id = item.userId }, new { @class = "btn btn-primary" })
+            </td>
+        </tr>
+    }
+
+</table>
+

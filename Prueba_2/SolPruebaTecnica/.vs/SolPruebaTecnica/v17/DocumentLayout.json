@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|c:\\users\\user\\source\\repos\\solpruebatecnica\\webpruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\webpruebatecnica\\views\\home\\vistaagregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\views\\home\\vistaagregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\webpruebatecnica\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\webpruebatecnica\\views\\home\\editarsalario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\views\\home\\editarsalario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\webpruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|c:\\users\\user\\source\\repos\\solpruebatecnica\\webpruebatecnica\\views\\home\\editarsalariou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\views\\home\\editarsalariou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\webpruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA5BD714-E6FB-4183-8E9E-139848F30F24}|WebPruebaTecnica\\WebPruebaTecnica.csproj|solutionrelative:webpruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarSalarioU.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\EditarSalarioU.cshtml",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Views\\Home\\EditarSalarioU.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\EditarSalarioU.cshtml",
+              "RelativeToolTip": "WebPruebaTecnica\\Views\\Home\\EditarSalarioU.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T19:23:47.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VistaAgregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\VistaAgregar.cshtml",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Views\\Home\\VistaAgregar.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\VistaAgregar.cshtml",
+              "RelativeToolTip": "WebPruebaTecnica\\Views\\Home\\VistaAgregar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:13:43.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditarSalario.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\EditarSalario.cshtml",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Views\\Home\\EditarSalario.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\EditarSalario.cshtml",
+              "RelativeToolTip": "WebPruebaTecnica\\Views\\Home\\EditarSalario.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvysAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:13:02.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "WebPruebaTecnica\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:12:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebPruebaTecnica\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:10:55.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebPruebaTecnica\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:07:53.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SolPruebaTecnica\\WebPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebPruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T18:15:34.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

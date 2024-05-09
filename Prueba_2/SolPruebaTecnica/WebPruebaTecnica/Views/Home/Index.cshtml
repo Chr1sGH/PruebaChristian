@@ -1,0 +1,65 @@
+﻿@model IEnumerable<WebPruebaTecnica.Models.empleados>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index 10 usuarios</h2>
+
+<p>
+    @Html.ActionLink("Agregar nuevo usuario", "VistaAgregar", null, new { @class = "btn btn-success" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Usuario
+        </th>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Apellido Paterno
+        </th>
+        <th>
+            Apellido Materno
+        </th>
+        <th>
+            Salario
+        </th>
+        <th>
+            Fecha de Ingreso
+        </th>
+        <th>
+            Acciones
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Login)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Paterno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuarios.Materno)
+            </td>
+            <td>
+                $@item.Sueldo
+            </td>
+            <td>
+                @item.FechaIngreso.Value.ToString("dd/MM/yyyy")
+            </td>
+            <td>
+                @Html.ActionLink("Editar salario", "EditarSalario", new { id = item.userId }, new { @class = "btn btn-primary" })
+            </td>
+        </tr>
+    }
+
+</table>
